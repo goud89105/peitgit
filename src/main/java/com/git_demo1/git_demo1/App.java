@@ -14,6 +14,11 @@ public class App
 			System.out.println("demo");
 		}
 	}
+	
+	public void added()
+	{
+	System.out.println("done some changes by developer2");	
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
